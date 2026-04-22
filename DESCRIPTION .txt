@@ -1,0 +1,10 @@
+Package: Shaikha
+Title: Genome Bioinformatics Midterm Package
+Version: 0.1.0
+Author: Shaikha [aut, cre]
+Maintainer: Shaikha <shaikhaU24100723@example.com>
+Description: Midterm substitute assignment for Programming for Bioinformatics.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+biocViews: Infrastructure, Genetics
